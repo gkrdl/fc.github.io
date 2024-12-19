@@ -1,5 +1,5 @@
 {
-    'lscache-trade2data': [
+    "lscache-trade2data": [
         {
             "id": "Currency",
             "label": "화폐",
@@ -809,7 +809,7 @@
             "entries": []
         }
     ],
-    'lscache-trade2filters': [
+    "lscache-trade2filters": [
         {
             "id": "type_filters",
             "title": "유형 필터",
@@ -1509,9 +1509,8 @@
                 }
             ]
         }
-    ], 
-    'lscache-trade2stats',
-    [
+    ],
+    "lscache-trade2stats": [
         {
             "id": "explicit",
             "label": "비고정",
